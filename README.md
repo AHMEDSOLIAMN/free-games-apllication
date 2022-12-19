@@ -1,16 +1,3 @@
 # free_to_game
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/93403100/208542776-af9f309c-08d9-4d35-b56b-830d54abb9e4.jpg" width="150"/> <img src="https://user-images.githubusercontent.com/93403100/208542831-8759bac2-3f62-4c74-94f6-9f10d705af1d.jpg" width="150"/> <img src="https://user-images.githubusercontent.com/93403100/208542919-fcfb29ed-120e-4334-948b-a970ca9d1954.jpg" width="150"/> <https://user-images.githubusercontent.com/93403100/208543344-a8f92536-b1b8-4d7c-a2d3-078bdb490b19.jpg" width="150"/>
